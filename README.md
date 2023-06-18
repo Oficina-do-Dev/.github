@@ -9,12 +9,12 @@ Caso você queira visualizar nossos tutoriais clique [aqui](https://github.com/O
 <div style="display: flex;">
 <a href="https://github.com/Oficina-do-Dev/Tutoriais/tree/main/Magento_2">
     <div style="border: solid 1px #194756; border-radius: 20px; width: 150px; margin: 10px;">
-        <img align="center" alt="Magento 1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original-wordmark.svg">
+        <img align="center" alt="Magento 2" height="90" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original-wordmark.svg">
     </div>
 </a>
 <a href="https://github.com/Oficina-do-Dev/Tutoriais/tree/main/WordPress">
     <div style="border: solid 1px #194756; border-radius: 20px; width: 150px; margin: 10px; padding: 10px">
-        <img align="center" alt="Magento 1" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+        <img align="center" alt=WordPress" height="70" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
     </div>
 </a>
 </div>
